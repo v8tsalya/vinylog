@@ -1,0 +1,25 @@
+:root{
+
+--background:#111111;
+
+--surface:#181818;
+
+--surface-2:#202020;
+
+--border:#2c2c2c;
+
+--text:#f4f2ee;
+
+--text-secondary:#8d8d8d;
+
+--accent:#b54a4a;
+
+--sidebar-width:260px;
+
+--navbar-height:80px;
+
+--radius:14px;
+
+--transition:.25s ease;
+
+}
